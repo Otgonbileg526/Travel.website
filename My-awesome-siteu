@@ -58,3 +58,4 @@ nav ul li a {
 document.getElementById("home").addEventListener("click", function() {
     alert("Хайнан аялалын ерөнхий мэдээлэл!");
 });
+<a href="https://www.yoursite.com" target="_blank">Таны вэбсайт руу орох</a>
